@@ -1,0 +1,14 @@
+c:\Users\KubaP\OneDrive\Dokumenty\Projekty studia\Zaliczenie\bin\Debug\net7.0\Zaliczenie.exe
+c:\Users\KubaP\OneDrive\Dokumenty\Projekty studia\Zaliczenie\bin\Debug\net7.0\Zaliczenie.deps.json
+c:\Users\KubaP\OneDrive\Dokumenty\Projekty studia\Zaliczenie\bin\Debug\net7.0\Zaliczenie.runtimeconfig.json
+c:\Users\KubaP\OneDrive\Dokumenty\Projekty studia\Zaliczenie\bin\Debug\net7.0\Zaliczenie.dll
+c:\Users\KubaP\OneDrive\Dokumenty\Projekty studia\Zaliczenie\bin\Debug\net7.0\Zaliczenie.pdb
+c:\Users\KubaP\OneDrive\Dokumenty\Projekty studia\Zaliczenie\obj\Debug\net7.0\Zaliczenie.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\KubaP\OneDrive\Dokumenty\Projekty studia\Zaliczenie\obj\Debug\net7.0\Zaliczenie.AssemblyInfoInputs.cache
+c:\Users\KubaP\OneDrive\Dokumenty\Projekty studia\Zaliczenie\obj\Debug\net7.0\Zaliczenie.AssemblyInfo.cs
+c:\Users\KubaP\OneDrive\Dokumenty\Projekty studia\Zaliczenie\obj\Debug\net7.0\Zaliczenie.csproj.CoreCompileInputs.cache
+c:\Users\KubaP\OneDrive\Dokumenty\Projekty studia\Zaliczenie\obj\Debug\net7.0\Zaliczenie.dll
+c:\Users\KubaP\OneDrive\Dokumenty\Projekty studia\Zaliczenie\obj\Debug\net7.0\refint\Zaliczenie.dll
+c:\Users\KubaP\OneDrive\Dokumenty\Projekty studia\Zaliczenie\obj\Debug\net7.0\Zaliczenie.pdb
+c:\Users\KubaP\OneDrive\Dokumenty\Projekty studia\Zaliczenie\obj\Debug\net7.0\Zaliczenie.genruntimeconfig.cache
+c:\Users\KubaP\OneDrive\Dokumenty\Projekty studia\Zaliczenie\obj\Debug\net7.0\ref\Zaliczenie.dll
